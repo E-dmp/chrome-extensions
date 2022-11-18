@@ -1,0 +1,10 @@
+{
+	"name": "ggBoost",
+	"manifest_version": 3,
+	"version": "0.1",
+	"permissions": ["activeTab","scripting"],
+	"background": {
+		"service_worker": "search.js"
+	},
+	"action": {}
+}
